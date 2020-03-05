@@ -3,3 +3,5 @@
 info.txt
 README.md
 toms_branch_info.txt
+
+HERE IS SOME NEW TEXT ENTERED ON GITHUB DURING CLASS THURSDAY
