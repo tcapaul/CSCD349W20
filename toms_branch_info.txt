@@ -4,4 +4,5 @@ info.txt
 README.md
 toms_branch_info.txt
 
-***********TEXT ENTERED ON MASTER BRANCH****************
+HERE IS SOME NEW TEXT ENTERED ON GITHUB DURING CLASS THURSDAY
+***********TEXT ENTERED ON MASTER BRANCH***************
